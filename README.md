@@ -12,7 +12,7 @@
 
 
 
-### Índice ()
+### Índice
 
 * [Apresentação](#apresentação)
 * [Status do projeto](#status-do-projeto)
