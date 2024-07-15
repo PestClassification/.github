@@ -1,6 +1,6 @@
 <div align="center">
 <p align="center">
-<img alt="logo do projeto FoIA" src="/logo.png">
+<img alt="logo do projeto FoIA" src="/img/logo.png">
 <a href="https://github.com/PestClassification/.github">
 </p> 
 </div>
