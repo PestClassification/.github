@@ -5,7 +5,7 @@
 </p> 
 </div>
 
-# Sistema para identificação de pragas e áreas agrícolas
+# Sistema para identificação de pragas em áreas agrícolas
 
 ![Static Badge](https://img.shields.io/badge/Status-Em%20desenvolvimento-green?label=Status)   ![PyPI - Version](https://img.shields.io/pypi/v/tensorflow)  ![Static Badge](https://img.shields.io/badge/Licen%C3%A7a-%20uso%20privado-green)
 
